@@ -13,8 +13,8 @@ import qualified Data.Map as Map
 -- *******************************************************************************
 -- Uncomment only one line
 
-expected = "0" -- this one does not hang.
---expected = "(Ln.Lf.Lx.n(Lg.Lh.h(gf))(Lu.x)(Lu.u))(Lf.Ls.fs)" -- this one causes hanging.
+--expected = "0" -- this one does not hang.
+expected = "(Ln.Lf.Lx.n(Lg.Lh.h(gf))(Lu.x)(Lu.u))(Lf.Ls.fs)" -- this one causes hanging.
 
 -- *******************************************************************************
 
